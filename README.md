@@ -2,5 +2,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=python&logoColor=white)]
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
