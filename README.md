@@ -9,4 +9,4 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=black)
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-363636?style=flat-square&logo=Hyperledger&logoColor=white)
