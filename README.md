@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=A%20GIT&fontSize=90)
 
 <div align=center>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=A%20GIT&fontSize=90)
+
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=MySQL&logoColor=white)
