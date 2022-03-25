@@ -33,4 +33,4 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 <br>
 <br>
-
+[![wakatime](https://wakatime.com/badge/github/jst7501/jst7501.svg)](https://wakatime.com/badge/github/jst7501/jst7501)
